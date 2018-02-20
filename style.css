@@ -1,0 +1,16 @@
+#mother p{/* family hieracchy edit*/
+
+	color: pink;
+
+}
+
+.list ul {
+ list-style-type: none;
+ display: inline-block;
+}
+
+.list ul li{
+	display: inline-block;
+	font-family:  Helvetica, Arial, Sans-Serif;
+	font-size: 6pt;
+}
